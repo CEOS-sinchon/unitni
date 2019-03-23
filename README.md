@@ -1,4 +1,4 @@
-# CEOS 팀 프로젝트 unitni 개발 GitHub Repository
+# \[8기\]CEOS 팀 프로젝트 unitni 개발 GitHub Repository
 
 ~~중간에 변경사항이 있어서 tdip에서 unitni로 바꿈.. 레포지토리명을 바꾸는 방법이 있으려나..~~
 
